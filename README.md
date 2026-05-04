@@ -36,7 +36,7 @@ Tested on 1-minute BTC/USD data (April 2026) with simulated institutional transa
 
 ## 🚀 How to Run
 ```bash
-git clone [https://github.com/Zsoli28/kalman-regime-filter.git](https://github.com/Zsoli28/kalman-regime-filter.git)
+git clone https://github.com/Zsoli28/kalman-regime-filter.git
 cd kalman-regime-filter
 pip install pandas numpy matplotlib
 python backtest.py
